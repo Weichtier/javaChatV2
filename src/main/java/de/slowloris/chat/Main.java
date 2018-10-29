@@ -12,7 +12,7 @@ package de.slowloris.chat;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import de.slowloris.chat.client.Client;
-import de.slowloris.chat.client.ClientGui;
+import de.slowloris.chat.gui.ClientGui;
 import de.slowloris.chat.server.Server;
 
 
